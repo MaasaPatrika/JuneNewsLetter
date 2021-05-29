@@ -1,1 +1,2 @@
 This is information file for Images folder of June News Letter.
+Adding the second line to the information file.
